@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 My name is Erik and
-- 🔭 I’m currently studying front end development
+- 🔭 I’m currently studying frontend development
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Anything
 - 📫 How to reach me: erikio93@hotmail.com
