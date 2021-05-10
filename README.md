@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 I am Erik and
 - 🔭 I’m currently studying front end development
 - 🌱 I’m currently learning Node.js
-- 💬 Ask me about Anything 😄
+- 💬 Ask me about Anything
 - 📫 How to reach me: erikio93@hotmail.com
 - ⚡ Fun fact: I like Angular 😄
 
