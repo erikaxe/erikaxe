@@ -26,4 +26,4 @@ I am Erik and
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaxe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaxe&count_private=true&show_icons=true&theme=tokyonight)
