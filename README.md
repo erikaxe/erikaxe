@@ -6,7 +6,7 @@
 <!--
 Here are some ideas to get you started:
 -->
-I my name is Erik and
+My name is Erik and
 - 🔭 I’m currently studying front end development
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Anything
