@@ -22,7 +22,7 @@ I am Erik and
   
 ### Github Stats
 
-![Erik's stats](https://github-readme-stats.vercel.app/api?username=erikaxe&show_icons=true&theme=tokyonight)
+![Erik's stats](https://github-readme-stats.vercel.app/api?username=erikaxe&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Top Languages
 
