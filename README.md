@@ -19,8 +19,6 @@ I am Erik and
   - JavaScript
   - React
   - Angular
-  - Scrum
-  - UX
   
 ### Github Stats
 
