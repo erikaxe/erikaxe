@@ -11,7 +11,7 @@ My name is Erik and
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://www.linkedin.com/in/erikaxelsson93
-- ⚡ Fun fact: I like Angular 😄
+<!-- - ⚡ Fun fact: I like Angular 😄 -->
 
 ### Skills
 
