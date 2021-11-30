@@ -19,6 +19,8 @@ My name is Erik and
   - JavaScript
   - React
   - Angular
+  - NextJS
+  - Storyblok
   
 ### Github Stats
 
