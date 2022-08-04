@@ -7,20 +7,20 @@
 Here are some ideas to get you started:
 -->
 My name is Erik and
-- 🔭 I’m currently studying frontend development
-- 🌱 I’m currently learning Next.js & CMS Storyblok
+- 🔭 I’m currently working at World-360 as a frontend-dev
+- 🌱 I’m currently working with NextJS & storyblok
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://www.linkedin.com/in/erikaxelsson93
-<!-- - ⚡ Fun fact: I like Angular 😄 -->
+
 
 ### Skills
 
   - HTML/CSS
   - JavaScript
   - React
-  - Angular
   - NextJS
   - Storyblok
+  - Angular
   
 ### Github Stats
 
