@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 My name is Erik and
 - 🔭 I’m currently working at World-360 as a frontend-dev
 - 🌱 I’m currently working with NextJS & storyblok
-- 💬 Ask me about Anything
 - 📫 How to reach me: https://www.linkedin.com/in/erikaxelsson93
 
 
