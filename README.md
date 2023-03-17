@@ -24,9 +24,9 @@ My name is Erik and
 ### Github Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=erikaxe&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=erikaxe&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=erikaxe&show_icons=true&theme=synthwave&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=erikaxe&theme=synthwave&count_private=true" />
 </p>
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikaxe&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikaxe&show_icons=true&theme=synthwave&count_private=true" />
 </p>
