@@ -7,8 +7,9 @@
 Here are some ideas to get you started:
 -->
 My name is Erik and
-- 🔭 I’m currently working at World-360 as a frontend-dev
+- 🔭 I'm seeking a new opportunity where I can contribute my expertise and passion for web development
 - 🌱 I’m currently working with NextJS & storyblok
+- 📚 I'm learning react-native
 - 📫 How to reach me: https://www.linkedin.com/in/erikaxelsson93
 
 
