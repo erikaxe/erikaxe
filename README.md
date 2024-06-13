@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 My name is Erik and
 - 🔭 I'm seeking a new opportunity where I can contribute my skills and passion for web development
-- 🌱 I’m currently working with NextJS & storyblok
-- 📚 I'm learning react-native
+<!--- 🌱 I’m currently working with NextJS & storyblok
+- 📚 I'm learning react-native -->
 - 🔍 Learn more about me: https://eriaxe.vercel.app/
 - 📫 How to reach me: https://www.linkedin.com/in/erikaxelsson93
 
